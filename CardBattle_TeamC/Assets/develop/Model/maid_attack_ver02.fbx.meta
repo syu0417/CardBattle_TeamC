@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 041364a1e876d0744bf5d191e23b4e0a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TeaGirl_Modeling_BornFin_014:Foot_L
+    100004: TeaGirl_Modeling_BornFin_014:Foot_R
+    100006: TeaGirl_Modeling_BornFin_014:Hand_L
+    100008: TeaGirl_Modeling_BornFin_014:Hand_R
+    100010: TeaGirl_Modeling_BornFin_014:Head
+    100012: TeaGirl_Modeling_BornFin_014:Hips
+    100014: TeaGirl_Modeling_BornFin_014:index1_L
+    100016: TeaGirl_Modeling_BornFin_014:index1_R
+    100018: TeaGirl_Modeling_BornFin_014:Index_L
+    100020: TeaGirl_Modeling_BornFin_014:index_L
+    100022: TeaGirl_Modeling_BornFin_014:Index_R
+    100024: TeaGirl_Modeling_BornFin_014:index_R
+    100026: TeaGirl_Modeling_BornFin_014:LowerArm_L
+    100028: TeaGirl_Modeling_BornFin_014:LowerArm_R
+    100030: TeaGirl_Modeling_BornFin_014:LowerReg_L
+    100032: TeaGirl_Modeling_BornFin_014:LowerReg_R
+    100034: TeaGirl_Modeling_BornFin_014:Middle_L
+    100036: TeaGirl_Modeling_BornFin_014:Middle_R
+    100038: TeaGirl_Modeling_BornFin_014:Neck
+    100040: TeaGirl_Modeling_BornFin_014:Reference
+    100042: TeaGirl_Modeling_BornFin_014:Spine
+    100044: TeaGirl_Modeling_BornFin_014:Spine2
+    100046: TeaGirl_Modeling_BornFin_014:Tea
+    100048: TeaGirl_Modeling_BornFin_014:transform1
+    100050: TeaGirl_Modeling_BornFin_014:UpperArm_L
+    100052: TeaGirl_Modeling_BornFin_014:UpperArm_R
+    100054: TeaGirl_Modeling_BornFin_014:UpperLeg_L
+    100056: TeaGirl_Modeling_BornFin_014:UpperLeg_R
+    400000: //RootNode
+    400002: TeaGirl_Modeling_BornFin_014:Foot_L
+    400004: TeaGirl_Modeling_BornFin_014:Foot_R
+    400006: TeaGirl_Modeling_BornFin_014:Hand_L
+    400008: TeaGirl_Modeling_BornFin_014:Hand_R
+    400010: TeaGirl_Modeling_BornFin_014:Head
+    400012: TeaGirl_Modeling_BornFin_014:Hips
+    400014: TeaGirl_Modeling_BornFin_014:index1_L
+    400016: TeaGirl_Modeling_BornFin_014:index1_R
+    400018: TeaGirl_Modeling_BornFin_014:Index_L
+    400020: TeaGirl_Modeling_BornFin_014:index_L
+    400022: TeaGirl_Modeling_BornFin_014:Index_R
+    400024: TeaGirl_Modeling_BornFin_014:index_R
+    400026: TeaGirl_Modeling_BornFin_014:LowerArm_L
+    400028: TeaGirl_Modeling_BornFin_014:LowerArm_R
+    400030: TeaGirl_Modeling_BornFin_014:LowerReg_L
+    400032: TeaGirl_Modeling_BornFin_014:LowerReg_R
+    400034: TeaGirl_Modeling_BornFin_014:Middle_L
+    400036: TeaGirl_Modeling_BornFin_014:Middle_R
+    400038: TeaGirl_Modeling_BornFin_014:Neck
+    400040: TeaGirl_Modeling_BornFin_014:Reference
+    400042: TeaGirl_Modeling_BornFin_014:Spine
+    400044: TeaGirl_Modeling_BornFin_014:Spine2
+    400046: TeaGirl_Modeling_BornFin_014:Tea
+    400048: TeaGirl_Modeling_BornFin_014:transform1
+    400050: TeaGirl_Modeling_BornFin_014:UpperArm_L
+    400052: TeaGirl_Modeling_BornFin_014:UpperArm_R
+    400054: TeaGirl_Modeling_BornFin_014:UpperLeg_L
+    400056: TeaGirl_Modeling_BornFin_014:UpperLeg_R
+    2100000: lambert1
+    4300000: TeaGirl_Modeling_BornFin_014:Tea
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: TeaGirl_Modeling_BornFin_014:Tea
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

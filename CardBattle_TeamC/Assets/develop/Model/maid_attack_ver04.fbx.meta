@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: e4df028d2e0e5d747ba1bfa997ba74e4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TeaGirl_Modeling_BornFin_014:Foot_L
+    100004: TeaGirl_Modeling_BornFin_014:Foot_R
+    100006: TeaGirl_Modeling_BornFin_014:Hand_L
+    100008: TeaGirl_Modeling_BornFin_014:Hand_R
+    100010: TeaGirl_Modeling_BornFin_014:Head
+    100012: TeaGirl_Modeling_BornFin_014:Hips
+    100014: TeaGirl_Modeling_BornFin_014:index1_L
+    100016: TeaGirl_Modeling_BornFin_014:index1_R
+    100018: TeaGirl_Modeling_BornFin_014:Index_L
+    100020: TeaGirl_Modeling_BornFin_014:index_L
+    100022: TeaGirl_Modeling_BornFin_014:Index_R
+    100024: TeaGirl_Modeling_BornFin_014:index_R
+    100026: TeaGirl_Modeling_BornFin_014:LowerArm_L
+    100028: TeaGirl_Modeling_BornFin_014:LowerArm_R
+    100030: TeaGirl_Modeling_BornFin_014:LowerReg_L
+    100032: TeaGirl_Modeling_BornFin_014:LowerReg_R
+    100034: TeaGirl_Modeling_BornFin_014:Middle_L
+    100036: TeaGirl_Modeling_BornFin_014:Middle_R
+    100038: TeaGirl_Modeling_BornFin_014:Neck
+    100040: TeaGirl_Modeling_BornFin_014:Reference
+    100042: TeaGirl_Modeling_BornFin_014:Spine
+    100044: TeaGirl_Modeling_BornFin_014:Spine2
+    100046: TeaGirl_Modeling_BornFin_014:Tea
+    100048: TeaGirl_Modeling_BornFin_014:transform1
+    100050: TeaGirl_Modeling_BornFin_014:UpperArm_L
+    100052: TeaGirl_Modeling_BornFin_014:UpperArm_R
+    100054: TeaGirl_Modeling_BornFin_014:UpperLeg_L
+    100056: TeaGirl_Modeling_BornFin_014:UpperLeg_R
+    400000: //RootNode
+    400002: TeaGirl_Modeling_BornFin_014:Foot_L
+    400004: TeaGirl_Modeling_BornFin_014:Foot_R
+    400006: TeaGirl_Modeling_BornFin_014:Hand_L
+    400008: TeaGirl_Modeling_BornFin_014:Hand_R
+    400010: TeaGirl_Modeling_BornFin_014:Head
+    400012: TeaGirl_Modeling_BornFin_014:Hips
+    400014: TeaGirl_Modeling_BornFin_014:index1_L
+    400016: TeaGirl_Modeling_BornFin_014:index1_R
+    400018: TeaGirl_Modeling_BornFin_014:Index_L
+    400020: TeaGirl_Modeling_BornFin_014:index_L
+    400022: TeaGirl_Modeling_BornFin_014:Index_R
+    400024: TeaGirl_Modeling_BornFin_014:index_R
+    400026: TeaGirl_Modeling_BornFin_014:LowerArm_L
+    400028: TeaGirl_Modeling_BornFin_014:LowerArm_R
+    400030: TeaGirl_Modeling_BornFin_014:LowerReg_L
+    400032: TeaGirl_Modeling_BornFin_014:LowerReg_R
+    400034: TeaGirl_Modeling_BornFin_014:Middle_L
+    400036: TeaGirl_Modeling_BornFin_014:Middle_R
+    400038: TeaGirl_Modeling_BornFin_014:Neck
+    400040: TeaGirl_Modeling_BornFin_014:Reference
+    400042: TeaGirl_Modeling_BornFin_014:Spine
+    400044: TeaGirl_Modeling_BornFin_014:Spine2
+    400046: TeaGirl_Modeling_BornFin_014:Tea
+    400048: TeaGirl_Modeling_BornFin_014:transform1
+    400050: TeaGirl_Modeling_BornFin_014:UpperArm_L
+    400052: TeaGirl_Modeling_BornFin_014:UpperArm_R
+    400054: TeaGirl_Modeling_BornFin_014:UpperLeg_L
+    400056: TeaGirl_Modeling_BornFin_014:UpperLeg_R
+    2100000: lambert1
+    4300000: TeaGirl_Modeling_BornFin_014:Tea
+    7400000: Attack 02
+    9500000: //RootNode
+    13700000: TeaGirl_Modeling_BornFin_014:Tea
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'TeaGirl_Modeling_BornFin_014:UpperLeg_R' has
+      translation animation that will be discarded.\n\t'TeaGirl_Modeling_BornFin_014:LowerReg_L'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack 02
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: TeaGirl_Modeling_BornFin_014:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:UpperLeg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:UpperLeg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:LowerReg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:LowerReg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:UpperArm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:UpperArm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:LowerArm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:LowerArm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:index_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:index1_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Middle_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:index_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:index1_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Middle_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TeaGirl_Modeling_BornFin_014:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: maid_attack_ver04(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TeaGirl_Modeling_BornFin_014:Reference
+      parentName: maid_attack_ver04(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.3847679, y: 0.3847679, z: 0.3847679}
+    - name: TeaGirl_Modeling_BornFin_014:transform1
+      parentName: TeaGirl_Modeling_BornFin_014:Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.5989695, y: 2.5989695, z: 2.5989695}
+    - name: TeaGirl_Modeling_BornFin_014:Hips
+      parentName: TeaGirl_Modeling_BornFin_014:transform1
+      position: {x: -0, y: 0.4517767, z: 0}
+      rotation: {x: 0.09858477, y: 0.098584756, z: -0.7002008, w: 0.7002007}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000008}
+    - name: TeaGirl_Modeling_BornFin_014:Spine
+      parentName: TeaGirl_Modeling_BornFin_014:Hips
+      position: {x: -0.13357653, y: 9.860761e-34, z: 1.7763568e-17}
+      rotation: {x: 0.000000022351742, y: -0.13941836, z: 0.0027483664, w: 0.99022985}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000005}
+    - name: TeaGirl_Modeling_BornFin_014:Spine2
+      parentName: TeaGirl_Modeling_BornFin_014:Spine
+      position: {x: -0.14448166, y: -0.000027756301, z: -0.036218673}
+      rotation: {x: -0.00086121296, y: -0.17788576, z: -0.0026098373, w: 0.98404735}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000011}
+    - name: TeaGirl_Modeling_BornFin_014:Neck
+      parentName: TeaGirl_Modeling_BornFin_014:Spine2
+      position: {x: -0.07928202, y: 0.00043144947, z: 0.018469453}
+      rotation: {x: 0.000108672706, y: 0.1778854, z: 0.0006008523, w: 0.98405105}
+      scale: {x: 1.0000002, y: 1.0000007, z: 0.9999995}
+    - name: TeaGirl_Modeling_BornFin_014:Head
+      parentName: TeaGirl_Modeling_BornFin_014:Neck
+      position: {x: -0.2577499, y: 6.8001157e-18, z: 7.105427e-17}
+      rotation: {x: -0.0000000026193445, y: -0.000000014901159, z: -0.0006106228,
+        w: 0.9999998}
+      scale: {x: 1.0000004, y: 1.0000006, z: 0.9999999}
+    - name: TeaGirl_Modeling_BornFin_014:UpperArm_R
+      parentName: TeaGirl_Modeling_BornFin_014:Spine2
+      position: {x: -0.030862207, y: 0.12574202, z: 0.0076275324}
+      rotation: {x: 0.14656332, y: -0.10489182, z: 0.69175076, w: -0.6992838}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: TeaGirl_Modeling_BornFin_014:LowerArm_R
+      parentName: TeaGirl_Modeling_BornFin_014:UpperArm_R
+      position: {x: -0.14247182, y: 0, z: -7.771561e-17}
+      rotation: {x: 0.000000014901159, y: 0.05973748, z: -0.00000013783573, w: 0.9982141}
+      scale: {x: 1.0000008, y: 1.0000004, z: 0.99999964}
+    - name: TeaGirl_Modeling_BornFin_014:Hand_R
+      parentName: TeaGirl_Modeling_BornFin_014:LowerArm_R
+      position: {x: -0.14306088, y: 0, z: 7.9936054e-17}
+      rotation: {x: 0.0005731614, y: -0.0017469038, z: -0.009887839, w: 0.99994946}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000001}
+    - name: TeaGirl_Modeling_BornFin_014:index_R
+      parentName: TeaGirl_Modeling_BornFin_014:Hand_R
+      position: {x: -0.0377693, y: 2.842171e-16, z: -3.5527136e-17}
+      rotation: {x: -0.017251031, y: 0.27279, z: -0.013849034, w: 0.9618192}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000005}
+    - name: TeaGirl_Modeling_BornFin_014:index1_R
+      parentName: TeaGirl_Modeling_BornFin_014:index_R
+      position: {x: -0.064461894, y: -1.4210854e-16, z: -3.9968027e-17}
+      rotation: {x: 0.0002454817, y: 0.0050189733, z: -0.04884555, w: 0.9987937}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000006}
+    - name: TeaGirl_Modeling_BornFin_014:Index_R
+      parentName: TeaGirl_Modeling_BornFin_014:Hand_R
+      position: {x: -0.04134662, y: -0.00003850771, z: 0.029005982}
+      rotation: {x: 0.05276614, y: 0.3732869, z: -0.111558795, w: 0.91947126}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: TeaGirl_Modeling_BornFin_014:Middle_R
+      parentName: TeaGirl_Modeling_BornFin_014:Index_R
+      position: {x: -0.036591657, y: 1.4210854e-16, z: 1.4210854e-16}
+      rotation: {x: -0.097554386, y: -0.005830198, z: 0.09073961, w: 0.9910679}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000008}
+    - name: TeaGirl_Modeling_BornFin_014:UpperArm_L
+      parentName: TeaGirl_Modeling_BornFin_014:Spine2
+      position: {x: -0.030861927, y: -0.12416959, z: 0.007627477}
+      rotation: {x: -0.6917508, y: 0.6992837, z: 0.14656334, w: -0.104891844}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: TeaGirl_Modeling_BornFin_014:LowerArm_L
+      parentName: TeaGirl_Modeling_BornFin_014:UpperArm_L
+      position: {x: 0.14247149, y: -2.842171e-16, z: 0.00000005435954}
+      rotation: {x: 0.000000029802319, y: 0.0597374, z: 0.000000059604638, w: 0.9982141}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000002}
+    - name: TeaGirl_Modeling_BornFin_014:Hand_L
+      parentName: TeaGirl_Modeling_BornFin_014:LowerArm_L
+      position: {x: 0.14306043, y: 1.4210854e-16, z: -0.000000060791756}
+      rotation: {x: 0.0005731693, y: -0.0017468703, z: -0.009887743, w: 0.99994946}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000006}
+    - name: TeaGirl_Modeling_BornFin_014:index_L
+      parentName: TeaGirl_Modeling_BornFin_014:Hand_L
+      position: {x: 0.037769932, y: -0.00000004045685, z: 0.00000007993481}
+      rotation: {x: -0.017250925, y: 0.27278867, z: -0.013845388, w: 0.96181965}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.0000011}
+    - name: TeaGirl_Modeling_BornFin_014:index1_L
+      parentName: TeaGirl_Modeling_BornFin_014:index_L
+      position: {x: 0.06446161, y: 0.00000010972581, z: 3.1086245e-17}
+      rotation: {x: 0.0002454179, y: 0.005018934, z: -0.048845533, w: 0.9987938}
+      scale: {x: 0.9999991, y: 0.99999994, z: 0.9999992}
+    - name: TeaGirl_Modeling_BornFin_014:Index_L
+      parentName: TeaGirl_Modeling_BornFin_014:Hand_L
+      position: {x: 0.041347183, y: 0.00003846588, z: -0.029005904}
+      rotation: {x: 0.052766077, y: 0.37328675, z: -0.11155892, w: 0.91947126}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000004}
+    - name: TeaGirl_Modeling_BornFin_014:Middle_L
+      parentName: TeaGirl_Modeling_BornFin_014:Index_L
+      position: {x: 0.03659136, y: 0.00000058422665, z: -0.00000034093867}
+      rotation: {x: -0.09755422, y: -0.0058301087, z: 0.09073957, w: 0.9910679}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000006}
+    - name: TeaGirl_Modeling_BornFin_014:UpperLeg_R
+      parentName: TeaGirl_Modeling_BornFin_014:Hips
+      position: {x: -0.03852834, y: 0.07354681, z: 0.011166922}
+      rotation: {x: -0.1394129, y: -0.0013992116, z: 0.99018353, w: 0.009937973}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000005}
+    - name: TeaGirl_Modeling_BornFin_014:LowerReg_R
+      parentName: TeaGirl_Modeling_BornFin_014:UpperLeg_R
+      position: {x: -0.26770446, y: 6.217249e-17, z: -5.9519596e-17}
+      rotation: {x: 0.00031385705, y: -0.031272117, z: 0.010031188, w: 0.9994605}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000005}
+    - name: TeaGirl_Modeling_BornFin_014:Foot_R
+      parentName: TeaGirl_Modeling_BornFin_014:LowerReg_R
+      position: {x: -0.21669143, y: -5.3290704e-17, z: -8.659739e-17}
+      rotation: {x: -0.0000000021536835, y: 0.031273697, z: -0.000000018626436, w: 0.99951094}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000002}
+    - name: TeaGirl_Modeling_BornFin_014:UpperLeg_L
+      parentName: TeaGirl_Modeling_BornFin_014:Hips
+      position: {x: -0.039342694, y: -0.07354318, z: 0.010932972}
+      rotation: {x: 0.9901835, y: 0.009938183, z: 0.13941288, w: 0.001399219}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000005}
+    - name: TeaGirl_Modeling_BornFin_014:LowerReg_L
+      parentName: TeaGirl_Modeling_BornFin_014:UpperLeg_L
+      position: {x: 0.26770493, y: -0.000000040094537, z: 5.95196e-17}
+      rotation: {x: -0.00031391293, y: 0.03127209, z: -0.010031159, w: -0.9994605}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000002}
+    - name: TeaGirl_Modeling_BornFin_014:Foot_L
+      parentName: TeaGirl_Modeling_BornFin_014:LowerReg_L
+      position: {x: 0.21669108, y: 1.8651746e-16, z: 0.0000000709279}
+      rotation: {x: 0.00000006877235, y: -0.031273685, z: -0.0000000409735, w: -0.9995109}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: TeaGirl_Modeling_BornFin_014:Tea
+      parentName: maid_attack_ver04(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
